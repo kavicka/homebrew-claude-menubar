@@ -1,8 +1,8 @@
 class ClaudeMenubar < Formula
   desc "macOS menu bar app showing running Claude Code chats (running/waiting/finished)"
   homepage "https://github.com/kavicka/claude-menubar"
-  url "https://github.com/kavicka/claude-menubar/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "fd602a8d370e93f6cf69a2c2b76aa577e9296032f7577b4a2e7e5fbe1b5f9bbb"
+  url "https://github.com/kavicka/claude-menubar/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "2bb532f45adaa3ab72533328006ef7175ed64313aef2e67ab0baa0bcaa37fdb6"
   license "MIT"
 
   # Builds from source on the user's machine (no Developer ID / notarization needed).
